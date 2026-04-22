@@ -1,0 +1,23 @@
+body{
+    margin-left: 20px;
+    background-color: antiquewhite;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20px;
+}
+
+
+.chat{
+    background-color: burlywood;
+    padding: 20px;
+    border-radius: 16px;
+    display: inline-block;
+    
+}
+
+.msg{
+    background-color: peru;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 16px;
+}
